@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1017513905202",
+    "firebase_url": "https://remote-service-system.firebaseio.com",
+    "project_id": "remote-service-system",
+    "storage_bucket": "remote-service-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017513905202:android:afb856f204355e350b402b",
+        "android_client_info": {
+          "package_name": "com.rahulcompany.updater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017513905202-64d71n50b9561nho8iql8rhfrtfukdqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-Wl-6SzBOJcp2FNSaE7BO_Li9XcAhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017513905202-64d71n50b9561nho8iql8rhfrtfukdqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
